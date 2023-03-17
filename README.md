@@ -13,5 +13,13 @@ The SEBI (PIT) Regulations, 2015 Compliant Structured Digital Database (SDD) Sof
 - 24*7 Backup
 - In-built UPSI Email Notifications
 
+# SDD v1.0.1
+- Minor Bug Fixes & Imporovements
+
+# SDD v1.0.1
+- Trading Windows Initmations & Email Notifications
+- Minor Bug Fixes & Imporovements
+
+
 More Info:
 https://erience.co/products/structured-digital-database.html
