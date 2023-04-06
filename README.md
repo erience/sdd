@@ -1,4 +1,4 @@
-# SDD v1.0.0
+# SDD v1.0.5
 Structured Digital Database
 
 The SEBI (PIT) Regulations, 2015 Compliant Structured Digital Database (SDD) Software. The purpose of the SDD is to record and monitor the individuals who have been provided with UPSI. Some of our software features:
@@ -16,10 +16,18 @@ The SEBI (PIT) Regulations, 2015 Compliant Structured Digital Database (SDD) Sof
 # SDD v1.0.1
 - Minor Bug Fixes & Imporovements
 
-# SDD v1.0.1
+# SDD v1.0.2
 - Trading Windows Initmations & Email Notifications
 - Minor Bug Fixes & Imporovements
 
+# SDD v1.0.3
+- Updated Email Templates
+
+# SDD v1.0.4
+- Minor Bug Fixes & Imporovements
+
+# SDD v1.0.5
+- Minor Bug Fixes & Imporovements
 
 More Info:
 https://erience.co/products/structured-digital-database.html
