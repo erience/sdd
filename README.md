@@ -29,5 +29,12 @@ The SEBI (PIT) Regulations, 2015 Compliant Structured Digital Database (SDD) Sof
 # SDD v1.0.5
 - Minor Bug Fixes & Imporovements
 
+# SDD v1.0.6
+- Restricted Entity option for SEBI-registered intermediaries, associate companies, statutory auditors, etc.
+- Minor Bug Fixes & Imporovements
+
+# SDD v1.0.7
+- Minor Bug Fixes & Imporovements
+
 More Info:
 https://erience.co/products/structured-digital-database.html
