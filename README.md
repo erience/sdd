@@ -36,5 +36,8 @@ The SEBI (PIT) Regulations, 2015 Compliant Structured Digital Database (SDD) Sof
 # SDD v1.0.7
 - Minor Bug Fixes & Imporovements
 
+# SDD v1.0.8
+- Minor Bug Fixes & Imporovements
+
 More Info:
 https://erience.co/products/structured-digital-database.html
